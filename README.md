@@ -1,4 +1,7 @@
-# Movie Production Portfolio Analysis
+## 💼 Business Problem
+Film production companies often invest across multiple projects without a clear view of which formats or genres deliver the best returns. 
+This project models budget, revenue, and ROI across a 10-film portfolio using Excel financial modeling — later extended into an interactive Power BI dashboard in a follow-up project.# Movie Production Portfolio Analysis
+
 This Excel project analyzes the financial performance of a movie production portfolio using financial modeling and dashboard visualization.
 
 ## Project Overview
